@@ -1,0 +1,7 @@
+syntax = "proto3";
+import "google/protobuf/timestamp.proto";
+
+message ImageJPEG {
+  google.protobuf.Timestamp timestamp = 1;
+  bytes data = 2;
+}

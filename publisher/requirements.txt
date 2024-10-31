@@ -1,0 +1,5 @@
+eclipse-zenoh==1.0.0
+protobuf==5.28.2
+yt-dlp==2024.9.27
+av==13.0.0
+opencv-python-headless==4.10.0.84
